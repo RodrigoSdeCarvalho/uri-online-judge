@@ -1,5 +1,3 @@
-#Problema 1986 do URI
-#Rodrigo Santos de Carvalho
 n=int(input())
 hexadecimal=input().split()
 dec=hexadecimal

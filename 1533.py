@@ -1,5 +1,4 @@
-#Problema 1986 do URI
-#Rodrigo Santos de Carvalho
+# -*- coding: utf-8 -*-
 maisSuspeito=0
 criminoso=0
 while True:

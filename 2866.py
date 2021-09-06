@@ -1,5 +1,3 @@
-#Problema 1986 do URI
-#Rodrigo Santos de Carvalho
 n=int(input())
 for i in range(0,n):
     codigo=str(input())
